@@ -1,4 +1,4 @@
-##Module 3- PyPoll
+# Module 3- PyPoll
 
 Deliverable 1:  The Election Results Printed to the Command Line
 Deliverable 2:  The Election Results Saved to a Text File
