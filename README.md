@@ -10,6 +10,8 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 
 
 # Election Audit Results
+Markup : * Bullet list
+
 
 
 # Election Audit Summary
