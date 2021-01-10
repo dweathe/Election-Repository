@@ -19,9 +19,10 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 ![County_Largest_Number_Votes](Election_Module_3/County_Largest_Number_Votes)
 
 *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+![Candidate_VotesandPercentage](Election_Module_3/Candidate_VotesandPercentage)
 
 *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
+![Election_Winner](Election_Module_3/Election_Winner)
 
 
 # Election Audit Summary
