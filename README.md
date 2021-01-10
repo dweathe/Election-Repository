@@ -16,7 +16,7 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 ![County_Votes](Election_Module_3/County_Votes.png)
 
 *Which county had the largest number of votes?
-![
+![County_Largest_Number_Votes](Election_Module_3/County_Largest_Number_Votes)
 
 *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
