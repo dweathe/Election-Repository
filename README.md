@@ -10,7 +10,8 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 
 
 # Election Audit Results
-*How many votes were cast in this congressional election? 369,711
+*How many votes were cast in this congressional election? 
+369,711
 
 *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 ![County_Votes](Election_Module_3/County_Votes.png)
@@ -26,3 +27,4 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 
 
 # Election Audit Summary
+
