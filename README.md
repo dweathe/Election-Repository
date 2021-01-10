@@ -26,4 +26,9 @@ The purpose of this election audit analysis is to assist Tom, a Colorado Board o
 
 
 ## Election Audit Summary
+Prepared by Denise E. Weatherford
+
+The script written as evidenced in the _____________ can be used with some modifications, for any election.  Here are two examples of how the script can be modified for use in other elections.
+1- add in date and time stamps for receipt of ballot.
+2- identification of ballot voting method 
 
